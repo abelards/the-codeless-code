@@ -1,0 +1,47 @@
+Lang: fr
+Translator: abelards
+Number: 225
+Title: Les Trois Mots Les Plus Terrifiants
+Tagline: Dans lequel on a un problème, peut-être.
+
+La nonne [[Hwídah]] prenait son déjeûner avec son clan
+quand un moine expérimenté approcha, quémendant son aide
+au sujet d'un incident de production.
+Ne voulant pas déranger les autres, le moine s'inclina
+pour murmurer à l'oreille de Hwídah.
+
+"Ah," dit Hwídah, se levant de la table.
+"Les trois mots les plus terrifiants."
+Elle s'en fut immédiatement avec le vieux moine.
+
+Un novice qui avait vu cet échange croisa par hasard
+le moine expérimenté le soir même. Le novice lui demanda,
+"Qu'étaient ces 'trois mots les plus terrifiants' ?"
+
+Le moine répondit, "accès concurrent, peut-être."
+
+Le novice rélféchit un moment, et son visage s'éclaira,
+"dites à Hwídah que ces mots /ne peuvent pas/ être les
+'trois mots les plus terrifiants', car ce serait bien
+pire d'entendre à la place 'accès concurrent <i>avéré</i>' !"
+
+Le moine rit et reprit son chemin.
+
+- - -
+
+Cette nuit-là, le sommeil du novice fut troublé de longs,
+terribles cauchemars, desquels il ne parvenait pas à se
+réveiller. Après ce qui lui sembla une éternité, il reprit
+connaissance, ligoté dans ses propres draps.
+
+Rejetant les couvertures emmêlées, le novice se trouva
+seul au milieu d'un désert uniforme, sans repères.
+Non loin de lui se trouvait une bouteille de sédatifs, vide.
+Repliée maintes et maintes fois, attachée à cette bouteille,
+il trouva une carte du monde : tous les continents, toutes les
+montagnes, et les nombreux, nombreux déserts.
+
+Dans l'un des déserts se trouvait un tout petit point rouge,
+vers lequel pointait une toute petite flèche rouge, au bout
+de laquelle on reconnaissait l'écriture de Hwídah :
+"Vous êtes ici, <i>peut-être</i>."
